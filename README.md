@@ -1,2 +1,4 @@
-# datenerwin
-TYPO3 CMS
+Sitepackage for the project "Datenerwin"
+==============================================================
+
+Add some explanation here.
