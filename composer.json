@@ -1,7 +1,7 @@
 {
     "name": "jesmar/datenerwin",
     "type": "typo3-cms-extension",
-    "description": "FluidStyledContent - Sitepackebuilder.com",
+    "description": "FluidStyledContent - sitepackagebuilder.com",
     "homepage": "https://datenerwin.de",
     "license": ["GPL-2.0-or-later"],
     "keywords": ["TYPO3 CMS"],
